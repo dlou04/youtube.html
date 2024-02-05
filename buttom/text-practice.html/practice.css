@@ -1,0 +1,76 @@
+.email{
+  color:rgb(99, 91, 91);
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:14px;
+  margin-bottom:2px;
+}
+
+.password{
+  color:rgb(99, 91, 91);
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:14px;
+  margin-bottom:2px;
+}
+
+
+.text-box{
+  margin-top:3px;
+  padding-top: 5px;
+  padding-right: 200px;
+  padding-bottom: 10px;
+  border:solid;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+.text-box:hover{
+  border-width: 1.9px;
+  cursor: pointer;
+  background-color: whitesmoke;
+}
+.agreement1,.agreement3{
+  color:rgba(28, 103, 201, 0.952);
+  font-weight:550;
+}
+.agreement2{
+  color:rgba(47, 106, 184, 0.952);
+  padding-left: 15px;
+  margin-top: 0px;
+  font: weight 550;;
+}
+.policy{
+  color:rgb(99, 91, 91);
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+  font-weight:lighter;
+  padding-left: 25px;
+  margin-bottom: 0px;
+  font-weight:550;
+}
+
+.agree{
+  background-color: #2f6ab8f3;
+  color:white;
+  margin-right:20px;
+  padding-left: 130px;
+  padding-top: 17px;
+  padding-right: 150px;
+  padding-bottom: 14px;
+  border-radius: 25px;
+  border-color: rgba(47, 106, 184, 0.952);
+  border:solid;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  transition:opacity 0.8s;
+  font-weight: 600;
+  transition: background-color 1s;
+}
+
+.agree:hover{
+  background-color: rgb(59, 59, 147);
+  cursor: pointer;
+}
+
+.agree:active{
+  opacity:0.2;
+}
